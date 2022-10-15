@@ -1,0 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+  cout<<"My name is xiaowei"<<endl<<"I come from Wuhan,Hubei province,China";
+  return 0;
+}
